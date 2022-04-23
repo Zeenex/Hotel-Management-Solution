@@ -1,0 +1,25 @@
+.top-header{
+	
+	background-color: #D8D8D8;
+	width: 100%;
+	padding: 10px;
+	box-shadow: 5px 5px 5px #aaaaaa;
+}
+
+.top-header .tl-menu{
+
+	font-weight:  700;
+}
+
+.top-header .tm-menu{
+
+	font-weight:  600;
+	padding-top: 20px;
+	font-size: 16px;
+}
+.top-header .tr-menu{
+
+	font-weight:  400;
+	padding-top: 20px;
+	font-size: 13px;
+}
